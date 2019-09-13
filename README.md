@@ -1,2 +1,2 @@
 # NLP-Projects
-In here you will find various of my NLP projects. Hit me up if you need any explanations 
+In here you will find various of my NLP projects. Please let me know if you have any questions.
